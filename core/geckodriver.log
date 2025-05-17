@@ -1,0 +1,922 @@
+1746893597138	geckodriver	INFO	Listening on 127.0.0.1:50790
+1747217656897	geckodriver	INFO	Listening on 127.0.0.1:59163
+1747217660009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5916 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileEasvzU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747217660396	Marionette	INFO	Marionette enabled
+1747217660492	Marionette	INFO	Listening on port 59173
+WebDriver BiDi listening on ws://127.0.0.1:59164
+Read port: 59173
+1747217660593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileEasvzU\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileEasvzU\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+VTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747217727079	Marionette	INFO	Marionette enabled
+1747217727164	Marionette	INFO	Listening on port 59261
+WebDriver BiDi listening on ws://127.0.0.1:59252
+Read port: 59261
+1747217727262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofile3PygQn\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofile3PygQn\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1747246206771	geckodriver	INFO	Listening on 127.0.0.1:51977
+1747246209886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5197 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileyfzWYV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747246210279	Marionette	INFO	Marionette enabled
+1747246210399	Marionette	INFO	Listening on port 51989
+WebDriver BiDi listening on ws://127.0.0.1:51978
+Read port: 51989
+1747246210532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileyfzWYV\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileyfzWYV\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileyfzWYV\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileyfzWYV\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileyfzWYV\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileyfzWYV\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747329617380	Marionette	INFO	Stopped listening on port 51989
+Dynamically enable window occlusion 1
+Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIYCBy1\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIYCBy1\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIYCBy1\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIYCBy1\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIYCBy1\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747329614186	Marionette	INFO	Stopped listening on port 52034
+Dynamically enable window occlusion 1
+Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileGMdXeE\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileGMdXeE\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileGMdXeE\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileGMdXeE\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileGMdXeE\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747329610246	Marionette	INFO	Stopped listening on port 52269
+Dynamically enable window occlusion 1
+ils': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileTJVXLM\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileTJVXLM\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileTJVXLM\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileTJVXLM\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileTJVXLM\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747329606579	Marionette	INFO	Stopped listening on port 52320
+Dynamically enable window occlusion 1
+NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIqMUd9\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIqMUd9\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIqMUd9\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIqMUd9\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileIqMUd9\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747329578212	Marionette	INFO	Stopped listening on port 52611
+Dynamically enable window occlusion 1
+erence override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747247437805	Marionette	INFO	Marionette enabled
+1747247437916	Marionette	INFO	Listening on port 52922
+WebDriver BiDi listening on ws://127.0.0.1:52912
+Read port: 52922
+1747247438046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1747247447007	Marionette	INFO	Stopped listening on port 52922
+Dynamically enable window occlusion 1
+1747248042236	geckodriver	INFO	Listening on 127.0.0.1:53282
+1747248045296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5328 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileThAprK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747248045658	Marionette	INFO	Marionette enabled
+1747248045759	Marionette	INFO	Listening on port 53294
+WebDriver BiDi listening on ws://127.0.0.1:53283
+Read port: 53294
+1747248045895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1747248055425	Marionette	INFO	Stopped listening on port 53294
+Dynamically enable window occlusion 1
+1747248597652	geckodriver	INFO	Listening on 127.0.0.1:58808
+1747248600783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5880 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileg7e7Pa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747248601382	Marionette	INFO	Marionette enabled
+1747248601489	Marionette	INFO	Listening on port 61061
+WebDriver BiDi listening on ws://127.0.0.1:58809
+Read port: 61061
+1747248601700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1747248604682	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1747248604805	Marionette	INFO	Stopped listening on port 61061
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:238:26
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:238:26
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:238:26
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:238:26
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:238:26
+
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.sys.mjs:238:26
+
+1747248708493	geckodriver	INFO	Listening on 127.0.0.1:61191
+1747248711599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6119 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilemRGnUM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747248711932	Marionette	INFO	Marionette enabled
+1747248712040	Marionette	INFO	Listening on port 61200
+WebDriver BiDi listening on ws://127.0.0.1:61192
+Read port: 61200
+1747248712200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+1747248735106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1747248735219	Marionette	INFO	Stopped listening on port 61200
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Remote Settings startup changesets bundle could not be extracted (TypeError: NetworkError: Network request failed)
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+1747254617279	geckodriver	INFO	Listening on 127.0.0.1:62498
+1747254620362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6249 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileqPM13m"
+*** You are running in headless mode.
+1747254683645	geckodriver	INFO	Listening on 127.0.0.1:62718
+1747254686680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6271 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileerOFDG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747254686987	Marionette	INFO	Marionette enabled
+1747254687088	Marionette	INFO	Listening on port 62730
+WebDriver BiDi listening on ws://127.0.0.1:62719
+Read port: 62730
+1747254687262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileerOFDG\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileerOFDG\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileerOFDG\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileerOFDG\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileerOFDG\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileerOFDG\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileerOFDG\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747329569157	Marionette	INFO	Stopped listening on port 62730
+Dynamically enable window occlusion 1
+ecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js, line 840: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:840:4276
+C@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:840:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:840:4912
+d@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:744:158
+
+1747255142851	Marionette	INFO	Stopped listening on port 63172
+Dynamically enable window occlusion 1
+1747255376632	geckodriver	INFO	Listening on 127.0.0.1:63404
+1747255379694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileaX6lTj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747255379978	Marionette	INFO	Marionette enabled
+1747255380076	Marionette	INFO	Listening on port 63414
+WebDriver BiDi listening on ws://127.0.0.1:63405
+Read port: 63414
+1747255380196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileaX6lTj\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileaX6lTj\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileaX6lTj\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileaX6lTj\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileaX6lTj\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js, line 840: Script terminated by timeout at:
+E@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:840:1949
+C@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:840:1644
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:840:4912
+d@https://static.cdninstagram.com/rsrc.php/v4i9wo4/yd/l/en_US/tTwJH5Nl3plhiQzB7O1tyiM2atlR1kHsM.js:744:158
+
+1747325762369	Marionette	INFO	Stopped listening on port 63414
+Dynamically enable window occlusion 1
+s" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofile0fHFXN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747255536401	Marionette	INFO	Marionette enabled
+1747255536496	Marionette	INFO	Listening on port 63628
+WebDriver BiDi listening on ws://127.0.0.1:63616
+Read port: 63628
+1747255536591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofile0fHFXN\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofile0fHFXN\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofile0fHFXN\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofile0fHFXN\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+1747325733919	Marionette	INFO	Stopped listening on port 63628
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileFjpvsD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747325727460	Marionette	INFO	Marionette enabled
+1747325727597	Marionette	INFO	Listening on port 59003
+WebDriver BiDi listening on ws://127.0.0.1:58995
+Read port: 59003
+1747325727713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1747327225285	Marionette	INFO	Stopped listening on port 59003
+n the environment
+Dynamically enable window occlusion 0
+1747325829556	Marionette	INFO	Marionette enabled
+1747325829697	Marionette	INFO	Listening on port 59142
+WebDriver BiDi listening on ws://127.0.0.1:59134
+Read port: 59142
+1747325829893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747327287651	Marionette	INFO	Stopped listening on port 59142
+Dynamically enable window occlusion 1
+eadless" "--remote-debugging-port" "5937 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofiletYO8dx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747326193368	Marionette	INFO	Marionette enabled
+1747326193491	Marionette	INFO	Listening on port 59379
+WebDriver BiDi listening on ws://127.0.0.1:59371
+Read port: 59379
+1747326193618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747327282617	Marionette	INFO	Stopped listening on port 59379
+Dynamically enable window occlusion 1
+eadless" "--remote-debugging-port" "5943 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilebHUHJG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747326280885	Marionette	INFO	Marionette enabled
+1747326281000	Marionette	INFO	Listening on port 59442
+WebDriver BiDi listening on ws://127.0.0.1:59433
+Read port: 59442
+1747326281154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747327278528	Marionette	INFO	Stopped listening on port 59442
+Dynamically enable window occlusion 1
+1747329692170	geckodriver	INFO	Listening on 127.0.0.1:63035
+1747329695266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofile6d7S2q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747329695624	Marionette	INFO	Marionette enabled
+1747329695758	Marionette	INFO	Listening on port 63044
+WebDriver BiDi listening on ws://127.0.0.1:63036
+Read port: 63044
+1747329695882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1747329844146	Marionette	INFO	Stopped listening on port 63044
+Dynamically enable window occlusion 1
+1747330022833	geckodriver	INFO	Listening on 127.0.0.1:63331
+1747330025884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilenaLkej"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747330026254	Marionette	INFO	Marionette enabled
+1747330026403	Marionette	INFO	Listening on port 63358
+WebDriver BiDi listening on ws://127.0.0.1:63332
+Read port: 63358
+1747330026621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+am Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6340 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileQiaMxc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747330056353	Marionette	INFO	Marionette enabled
+1747330056464	Marionette	INFO	Listening on port 63419
+WebDriver BiDi listening on ws://127.0.0.1:63402
+Read port: 63419
+1747330056622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1747338153356	Marionette	INFO	Stopped listening on port 63419
+Dynamically enable window occlusion 1
+1747338305124	geckodriver	INFO	Listening on 127.0.0.1:49206
+1747338308235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4920 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileo8Hg5z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747338308628	Marionette	INFO	Marionette enabled
+1747338308732	Marionette	INFO	Listening on port 49223
+WebDriver BiDi listening on ws://127.0.0.1:49207
+Read port: 49223
+1747338308824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+Exiting due to channel error.
+Listening on 127.0.0.1:49365
+1747338482320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4936 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilenat1EV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747338482671	Marionette	INFO	Marionette enabled
+1747338482778	Marionette	INFO	Listening on port 49384
+WebDriver BiDi listening on ws://127.0.0.1:49366
+Read port: 49384
+1747338482933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+47338697774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5020 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileNuw1k3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747338698111	Marionette	INFO	Marionette enabled
+1747338698218	Marionette	INFO	Listening on port 50222
+WebDriver BiDi listening on ws://127.0.0.1:50209
+Read port: 50222
+1747338698347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747338937908	geckodriver	INFO	Listening on 127.0.0.1:50437
+1747338940992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5043 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileAinzYZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747338941339	Marionette	INFO	Marionette enabled
+1747338941450	Marionette	INFO	Listening on port 50456
+WebDriver BiDi listening on ws://127.0.0.1:50438
+Read port: 50456
+1747338941593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747338982194	Marionette	INFO	Stopped listening on port 50456
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yz/r/IfSmkev4Rj_.js, line 239: Script terminated by timeout at:
+L/E<@https://static.cdninstagram.com/rsrc.php/v4/yz/r/IfSmkev4Rj_.js:239:2395
+
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/pioneer-content-v2 getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1747339006738	geckodriver	INFO	Listening on 127.0.0.1:50519
+1747339009807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5052 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofile1V10X1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339010152	Marionette	INFO	Marionette enabled
+1747339010252	Marionette	INFO	Listening on port 50534
+WebDriver BiDi listening on ws://127.0.0.1:50520
+Read port: 50534
+1747339010373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747339120425	geckodriver	INFO	Listening on 127.0.0.1:50626
+1747339123496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5062 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileK3em56"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339123847	Marionette	INFO	Marionette enabled
+1747339123953	Marionette	INFO	Listening on port 50645
+WebDriver BiDi listening on ws://127.0.0.1:50627
+Read port: 50645
+1747339124080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747339236200	geckodriver	INFO	Listening on 127.0.0.1:50711
+1747339239299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileDIOWpV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339239652	Marionette	INFO	Marionette enabled
+1747339239769	Marionette	INFO	Listening on port 50734
+WebDriver BiDi listening on ws://127.0.0.1:50712
+Read port: 50734
+1747339239925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747339597899	Marionette	INFO	Stopped listening on port 50734
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileY2YuxN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339318138	Marionette	INFO	Marionette enabled
+1747339318267	Marionette	INFO	Listening on port 50831
+WebDriver BiDi listening on ws://127.0.0.1:50818
+Read port: 50831
+1747339318424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747339596661	Marionette	INFO	Stopped listening on port 50831
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilextLgUJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339560026	Marionette	INFO	Marionette enabled
+1747339560145	Marionette	INFO	Listening on port 51035
+WebDriver BiDi listening on ws://127.0.0.1:51024
+Read port: 51035
+1747339560294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 430))
+Exiting due to channel error.
+Exiting due to channel error.
+1747339617154	geckodriver	INFO	Listening on 127.0.0.1:51111
+1747339620215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilerFeHBU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339620726	Marionette	INFO	Marionette enabled
+1747339620943	Marionette	INFO	Listening on port 51122
+WebDriver BiDi listening on ws://127.0.0.1:51112
+Read port: 51122
+1747339621140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1747339627277	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 430))
+1747339704897	Marionette	INFO	Stopped listening on port 51122
+Dynamically enable window occlusion 1
+1747339716099	geckodriver	INFO	Listening on 127.0.0.1:51271
+1747339719161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51272" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilexEiAib"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339719511	Marionette	INFO	Marionette enabled
+1747339719628	Marionette	INFO	Listening on port 51280
+WebDriver BiDi listening on ws://127.0.0.1:51272
+Read port: 51280
+1747339719777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4io_m4/yy/l/en_US/ukeBpj60LT1gzbMCELS1sWPBDHcGUCg_aMqGxZEvauNXKaONQuOYZ8nvlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VwvHbIbrAdZMenZ6-BZ6QVUyKb9JGbTt0GEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js, line 198: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4io_m4/yy/l/en_US/ukeBpj60LT1gzbMCELS1sWPBDHcGUCg_aMqGxZEvauNXKaONQuOYZ8nvlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VwvHbIbrAdZMenZ6-BZ6QVUyKb9JGbTt0GEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:198:4276
+C@https://static.cdninstagram.com/rsrc.php/v4io_m4/yy/l/en_US/ukeBpj60LT1gzbMCELS1sWPBDHcGUCg_aMqGxZEvauNXKaONQuOYZ8nvlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VwvHbIbrAdZMenZ6-BZ6QVUyKb9JGbTt0GEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:198:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4io_m4/yy/l/en_US/ukeBpj60LT1gzbMCELS1sWPBDHcGUCg_aMqGxZEvauNXKaONQuOYZ8nvlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VwvHbIbrAdZMenZ6-BZ6QVUyKb9JGbTt0GEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:198:4912
+d@https://static.cdninstagram.com/rsrc.php/v4io_m4/yy/l/en_US/ukeBpj60LT1gzbMCELS1sWPBDHcGUCg_aMqGxZEvauNXKaONQuOYZ8nvlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VwvHbIbrAdZMenZ6-BZ6QVUyKb9JGbTt0GEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:102:158
+
+1747339733367	Marionette	INFO	Stopped listening on port 51280
+Dynamically enable window occlusion 1
+1747339848025	geckodriver	INFO	Listening on 127.0.0.1:51459
+1747339851087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofile83oaOw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747339851442	Marionette	INFO	Marionette enabled
+1747339851569	Marionette	INFO	Listening on port 51470
+WebDriver BiDi listening on ws://127.0.0.1:51460
+Read port: 51470
+1747339851715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iZg-4/yW/l/en_US/SgsCzfPMJCdvAc8gOUbHhAukeBpj60LT1.js, line 846: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yW/l/en_US/SgsCzfPMJCdvAc8gOUbHhAukeBpj60LT1.js:846:4276
+C@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yW/l/en_US/SgsCzfPMJCdvAc8gOUbHhAukeBpj60LT1.js:846:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yW/l/en_US/SgsCzfPMJCdvAc8gOUbHhAukeBpj60LT1.js:846:4912
+d@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yW/l/en_US/SgsCzfPMJCdvAc8gOUbHhAukeBpj60LT1.js:750:158
+
+1747341813079	Marionette	INFO	Stopped listening on port 51470
+Dynamically enable window occlusion 1
+3
+1747340167726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1747341811883	Marionette	INFO	Stopped listening on port 51703
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilekpM4BY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747340337412	Marionette	INFO	Marionette enabled
+1747340337536	Marionette	INFO	Listening on port 51815
+WebDriver BiDi listening on ws://127.0.0.1:51805
+Read port: 51815
+1747340337649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1747340345707	Marionette	INFO	Stopped listening on port 51815
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/nimbus-desktop-experiments: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/cfr: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/tracking-protection-lists: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/nimbus-secure-experiments: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/newtab-wallpapers-v2: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/partitioning-exempt-urls: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/normandy-recipes-capabilities: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/search-categorization: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/message-groups: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+  main/query-stripping: Signature of bundled changeset is invalid: [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no].
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+1747340456366	geckodriver	INFO	Listening on 127.0.0.1:51922
+1747340459426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilehEHDxy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747340459789	Marionette	INFO	Marionette enabled
+1747340459909	Marionette	INFO	Listening on port 51932
+WebDriver BiDi listening on ws://127.0.0.1:51923
+Read port: 51932
+1747340460067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1747341810192	Marionette	INFO	Stopped listening on port 51932
+Dynamically enable window occlusion 1
+1747392148122	geckodriver	INFO	Listening on 127.0.0.1:58764
+1747392151181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilewbbKHS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747392151425	Marionette	INFO	Marionette enabled
+1747392151512	Marionette	INFO	Listening on port 58787
+WebDriver BiDi listening on ws://127.0.0.1:58765
+Read port: 58787
+1747392151659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1747392160429	Marionette	INFO	Stopped listening on port 58787
+Dynamically enable window occlusion 1
+1747392196318	geckodriver	INFO	Listening on 127.0.0.1:59039
+1747392199386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilepyRJfR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747392199628	Marionette	INFO	Marionette enabled
+1747392199715	Marionette	INFO	Listening on port 59050
+WebDriver BiDi listening on ws://127.0.0.1:59040
+Read port: 59050
+1747392199852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iVlu4/yd/l/en_US/vAc8gOUbHhA5F2uD1VojzVkTp3DeMWHqGPBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js, line 470: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4iVlu4/yd/l/en_US/vAc8gOUbHhA5F2uD1VojzVkTp3DeMWHqGPBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:470:4276
+C@https://static.cdninstagram.com/rsrc.php/v4iVlu4/yd/l/en_US/vAc8gOUbHhA5F2uD1VojzVkTp3DeMWHqGPBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:470:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4iVlu4/yd/l/en_US/vAc8gOUbHhA5F2uD1VojzVkTp3DeMWHqGPBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:470:4912
+d@https://static.cdninstagram.com/rsrc.php/v4iVlu4/yd/l/en_US/vAc8gOUbHhA5F2uD1VojzVkTp3DeMWHqGPBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhzabKFPLZ3_fzGh6g4SdD0VkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3ctwbwf9BVd3qCpLlkdGCSmZ.js:374:158
+
+1747410220897	Marionette	INFO	Stopped listening on port 59050
+Dynamically enable window occlusion 1
+n port 59386
+WebDriver BiDi listening on ws://127.0.0.1:59376
+Read port: 59386
+1747392496721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js, line 845: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:4276
+C@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:4912
+d@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:749:158
+
+1747409736564	Marionette	INFO	Stopped listening on port 59386
+Dynamically enable window occlusion 1
+7
+1747392969854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js, line 845: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:4276
+C@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:4912
+d@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:749:158
+
+1747409735188	Marionette	INFO	Stopped listening on port 59657
+Dynamically enable window occlusion 1
+5
+1747393408697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js, line 845: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:4276
+C@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:1597
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:845:4912
+d@https://static.cdninstagram.com/rsrc.php/v4iZg-4/yy/l/en_US/iAtrWNgi08RvAc8gOUbHhA5F2uD1VojzV.js:749:158
+
+1747409733688	Marionette	INFO	Stopped listening on port 59865
+Dynamically enable window occlusion 1
+1747409829675	geckodriver	INFO	Listening on 127.0.0.1:62790
+1747409832756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileGkKbq9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747409832997	Marionette	INFO	Marionette enabled
+1747409833081	Marionette	INFO	Listening on port 62804
+WebDriver BiDi listening on ws://127.0.0.1:62791
+Read port: 62804
+1747409833225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747409847814	Marionette	INFO	Stopped listening on port 62804
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js, line 810: Script terminated by timeout at:
+o@https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js:810:1783
+n@https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js:810:1395
+
+1747409999326	geckodriver	INFO	Listening on 127.0.0.1:62926
+1747410002381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileIsfV4P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747410002627	Marionette	INFO	Marionette enabled
+1747410002710	Marionette	INFO	Listening on port 62946
+WebDriver BiDi listening on ws://127.0.0.1:62927
+Read port: 62946
+1747410002853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747410017609	Marionette	INFO	Stopped listening on port 62946
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4/yV/r/vC-UhxDZGmp.js, line 77: Script terminated by timeout at:
+c@https://static.cdninstagram.com/rsrc.php/v4/yV/r/vC-UhxDZGmp.js:77:11023
+
+1747410046626	geckodriver	INFO	Listening on 127.0.0.1:63007
+1747410049695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofilelCV8tp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747410049940	Marionette	INFO	Marionette enabled
+1747410050024	Marionette	INFO	Listening on port 63024
+WebDriver BiDi listening on ws://127.0.0.1:63008
+Read port: 63024
+1747410050160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747410090480	Marionette	INFO	Stopped listening on port 63024
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js, line 810: Script terminated by timeout at:
+o@https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js:810:1783
+n@https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_Exiting due to channel error.
+Exiting due to channel error.
+M44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js:810:1395
+
+1747410210621	geckodriver	INFO	Listening on 127.0.0.1:63187
+1747410213691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileIo9H2a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747410213942	Marionette	INFO	Marionette enabled
+1747410214031	Marionette	INFO	Listening on port 63203
+WebDriver BiDi listening on ws://127.0.0.1:63188
+Read port: 63203
+1747410214147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4i1Au4/yZ/l/en_US/gDnJBwrNrM2.js, line 85: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747410228584	Marionette	INFO	Stopped listening on port 63203
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js, line 810: Script terminated by timeout at:
+o@https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js:810:1783
+n@https://static.cdninstagram.com/rsrc.php/v4iTqS4/yX/l/en_US/PBDHcGUCg_aMqGxZEvauNXxSdJo_qNjx0vlz9hbWd36F3Ry6hqM3NutxNEkM44K5ZUFaS8RNYWHLtHwb3zadBi94SVdaCmO2vUYUXuDOxtuJoOtFbZo44oX1dar4GoveLLUOytfR89RvMIhgGFw4nmLMfezabKFPLZ3_fzGh6g4SdD0VHA9uOBNpIBFkoYCWOIubOSpH4vTRvzHkaEajSL0EaNhZ0jtI38B1Z-joH6xwXKirfIvsWqehdEtWw397qFyFcaSD5yzIrtSg1gl0NX2Tg92UVk1-RfokkNf3cMKSPKuAkuWttwbwf9BVd3qCpLlkdGCSmZ.js:810:1395
+
+1747410363400	geckodriver	INFO	Listening on 127.0.0.1:63313
+1747410366479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6331 ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\phoenix\\AppData\\Local\\Temp\\rust_mozprofileVUCvpt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1747410366717	Marionette	INFO	Marionette enabled
+1747410366793	Marionette	INFO	Listening on port 63322
+WebDriver BiDi listening on ws://127.0.0.1:63314
+Read port: 63322
+1747410366917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileVUCvpt\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileVUCvpt\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileVUCvpt\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofileVUCvpt\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+Exiting due to channel error.
+t
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilew9qFSh\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilew9qFSh\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilew9qFSh\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilew9qFSh\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+Exiting due to channel error.
+t
+console.error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIWinTaskbar.getTaskbarProgress]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource:///modules/DownloadsTaskbar.sys.mjs :: _attachIndicator :: line 127"  data: no]
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilef3fP17\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilef3fP17\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilef3fP17\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilef3fP17\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 75: Error: Could not get children of `C:\Users\phoenix\AppData\Local\Temp\rust_mozprofilef3fP17\thumbnails': directory does not exist (NS_ERROR_FILE_NOT_FOUND)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
