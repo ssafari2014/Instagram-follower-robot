@@ -3,7 +3,7 @@ from core.login import login
 
 
 def test_follows():
-    session = login("sajad__saffari", "Abc@12345")
+    session = login("username", "password")
     result = follow(session)
     assert session == True
     assert result == True
